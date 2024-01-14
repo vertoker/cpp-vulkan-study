@@ -1,0 +1,10 @@
+//
+// Created by vertog on 14.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSONS_H
+#define STUDYCPPANDVULKANRENDERING_LESSONS_H
+
+#include "Basics/Lesson1_DataTypes.h"
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

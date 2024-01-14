@@ -1,6 +1,10 @@
 #include <iostream>
+#include "Lessons.h"
+
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Lesson1_DataTypes lesson;
+    lesson.main();
     return 0;
 }
