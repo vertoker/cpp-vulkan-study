@@ -7,4 +7,14 @@ add_executable(StudyCPPAndVulkanRendering main.cpp
         Lessons.h
         Basics/Lesson1_DataTypes.cpp
         Basics/Lesson1_DataTypes.h
+        Basics/Lesson2_Using.cpp
+        Basics/Lesson2_Using.h
+        Basics/Lesson3_Operations.cpp
+        Basics/Lesson3_Operations.h
+        Basics/Lesson4_TypesCast.cpp
+        Basics/Lesson4_TypesCast.h
+        Basics/Lesson5_Constructions.cpp
+        Basics/Lesson5_Constructions.h
+        Basics/Lesson6_Pointers.cpp
+        Basics/Lesson6_Pointers.h
 )

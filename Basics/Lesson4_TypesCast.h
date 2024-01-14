@@ -1,0 +1,15 @@
+//
+// Created by vertog on 14.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON4_TYPESCAST_H
+#define STUDYCPPANDVULKANRENDERING_LESSON4_TYPESCAST_H
+
+
+class Lesson4_TypesCast {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON4_TYPESCAST_H
