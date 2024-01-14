@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    Lesson5_Constructions lesson;
+    Lessons8_Strings lesson;
     lesson.main();
     return 0;
 }
