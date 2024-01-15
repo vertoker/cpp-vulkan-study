@@ -21,4 +21,12 @@ add_executable(StudyCPPAndVulkanRendering main.cpp
         Basics/Lessons7_Arrays.h
         Basics/Lessons8_Strings.cpp
         Basics/Lessons8_Strings.h
+        Pointers/Lesson9_PointersAdvanced.cpp
+        Pointers/Lesson9_PointersAdvanced.h
+        Pointers/Lesson10_PointersOperations.cpp
+        Pointers/Lesson10_PointersOperations.h
+        Pointers/Lesson11_PointersMath.cpp
+        Pointers/Lesson11_PointersMath.h
+        Pointers/Lesson12_PointersArrays.cpp
+        Pointers/Lesson12_PointersArrays.h
 )

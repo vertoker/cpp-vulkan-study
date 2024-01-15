@@ -13,5 +13,9 @@
 #include "Basics/Lesson6_Pointers.h"
 #include "Basics/Lessons7_Arrays.h"
 #include "Basics/Lessons8_Strings.h"
+#include "Pointers/Lesson9_PointersAdvanced.h"
+#include "Pointers/Lesson10_PointersOperations.h"
+#include "Pointers/Lesson11_PointersMath.h"
+#include "Pointers/Lesson12_PointersArrays.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H
