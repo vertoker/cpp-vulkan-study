@@ -21,5 +21,8 @@
 #include "3. Functions/Lesson14_FunctionsParameters.h"
 #include "3. Functions/Lesson15_FunctionsReturn.h"
 #include "3. Functions/Lesson16_FunctionsArrays.h"
+#include "3. Functions/Lesson17_FunctionsOverload.h"
+#include "3. Functions/Lesson18_FunctionsRecursion.h"
+#include "3. Functions/Lesson19_FunctionsPointers.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H
