@@ -24,5 +24,8 @@
 #include "3. Functions/Lesson17_FunctionsOverload.h"
 #include "3. Functions/Lesson18_FunctionsRecursion.h"
 #include "3. Functions/Lesson19_FunctionsPointers.h"
+#include "4. Memory/Lesson20_MemoryBasics.h"
+#include "4. Memory/Lesson21_UniquePtr.h"
+#include "4. Memory/Lesson22_SharedPtr.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

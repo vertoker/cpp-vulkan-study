@@ -1,0 +1,15 @@
+//
+// Created by vertog on 18.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON22_SHAREDPTR_H
+#define STUDYCPPANDVULKANRENDERING_LESSON22_SHAREDPTR_H
+
+
+class Lesson22_SharedPtr {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON22_SHAREDPTR_H
