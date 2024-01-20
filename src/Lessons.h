@@ -38,5 +38,6 @@
 #include "5. OOP/Lesson31_Explicit.h"
 #include "5. OOP/Lesson32_Namespaces.h"
 #include "5. OOP/Lesson33_NestedClass.h"
+#include "6. Exceptions/Lesson34_Basics.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

@@ -40,4 +40,6 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/5. OOP/Lesson32_Namespaces.cpp"
         "src/5. OOP/Lesson32_Namespaces.h"
         "src/5. OOP/Lesson33_NestedClass.cpp"
-        "src/5. OOP/Lesson33_NestedClass.h")
+        "src/5. OOP/Lesson33_NestedClass.h"
+        "src/6. Exceptions/Lesson34_Basics.cpp"
+        "src/6. Exceptions/Lesson34_Basics.h")
