@@ -30,5 +30,13 @@
 #include "5. OOP/Lesson23_Classes.h"
 #include "5. OOP/Lesson24_Friends.h"
 #include "5. OOP/Lesson25_Statics.h"
+#include "5. OOP/Lesson26_Struct.h"
+#include "5. OOP/Lesson27_Enum.h"
+#include "5. OOP/Lesson28_Inheritance.h"
+#include "5. OOP/Lesson29_MultipleIneritance.h"
+#include "5. OOP/Lesson30_OperatorsOverloading.h"
+#include "5. OOP/Lesson31_Explicit.h"
+#include "5. OOP/Lesson32_Namespaces.h"
+#include "5. OOP/Lesson33_NestedClass.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

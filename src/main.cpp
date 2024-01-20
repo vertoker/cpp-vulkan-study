@@ -1,8 +1,7 @@
 #include "Lessons.h"
-#include "iostream"
 
 int main(int argc, char* argv[]) {
-    Lesson25_Statics lesson;
+    Lesson33_NestedClass lesson;
     lesson.main();
     return 0;
 }

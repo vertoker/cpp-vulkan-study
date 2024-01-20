@@ -1,0 +1,15 @@
+//
+// Created by vertog on 20.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON31_EXPLICIT_H
+#define STUDYCPPANDVULKANRENDERING_LESSON31_EXPLICIT_H
+
+
+class Lesson31_Explicit {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON31_EXPLICIT_H
