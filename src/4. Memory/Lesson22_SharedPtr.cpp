@@ -12,7 +12,7 @@
 //
 
 void Lesson22_SharedPtr::main() {
-    std::shared_ptr<int>;
+    //std::shared_ptr<int>; // can't define empty shared ptr
     auto ptr = std::make_shared<int>(22);
     std::cout << "address: " << ptr << std::endl;
     std::cout << "old value: " << *ptr << std::endl;

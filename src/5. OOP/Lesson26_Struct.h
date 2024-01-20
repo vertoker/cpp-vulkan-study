@@ -1,0 +1,15 @@
+//
+// Created by vertog on 20.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON26_STRUCT_H
+#define STUDYCPPANDVULKANRENDERING_LESSON26_STRUCT_H
+
+
+class Lesson26_Struct {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON26_STRUCT_H

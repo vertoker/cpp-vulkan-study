@@ -13,10 +13,11 @@
 // you don't need to delete it because ilt do it self, when no one need it
 
 void Lesson21_UniquePtr::main() {
+    //  can't define empty unique ptr
     // std::unique_ptr<int> = nullptr; // doesn't work
-    std::unique_ptr<int>;
-    std::unique_ptr<int> {};
-    std::unique_ptr<int> {nullptr};
+    // std::unique_ptr<int>;
+    // std::unique_ptr<int> {};
+    // std::unique_ptr<int> {nullptr};
 
     // std::make_unique allocate memory for item and put item in the address
     std::unique_ptr<int> ptr = { std::make_unique<int>(125) };

@@ -18,4 +18,12 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/4. Memory/Lesson21_UniquePtr.cpp"
         "src/4. Memory/Lesson21_UniquePtr.h"
         "src/4. Memory/Lesson22_SharedPtr.cpp"
-        "src/4. Memory/Lesson22_SharedPtr.h")
+        "src/4. Memory/Lesson22_SharedPtr.h"
+        "src/5. OOP/Lesson23_Classes.cpp"
+        "src/5. OOP/Lesson23_Classes.h"
+        "src/5. OOP/Lesson24_Friends.cpp"
+        "src/5. OOP/Lesson24_Friends.h"
+        "src/5. OOP/Lesson25_Statics.cpp"
+        "src/5. OOP/Lesson25_Statics.h"
+        "src/5. OOP/Lesson26_Struct.cpp"
+        "src/5. OOP/Lesson26_Struct.h")

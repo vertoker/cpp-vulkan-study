@@ -2,7 +2,7 @@
 #include "iostream"
 
 int main(int argc, char* argv[]) {
-    Lesson22_SharedPtr lesson;
+    Lesson25_Statics lesson;
     lesson.main();
     return 0;
 }

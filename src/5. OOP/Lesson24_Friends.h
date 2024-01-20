@@ -1,0 +1,15 @@
+//
+// Created by vertog on 19.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON24_FRIENDS_H
+#define STUDYCPPANDVULKANRENDERING_LESSON24_FRIENDS_H
+
+
+class Lesson24_Friends {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON24_FRIENDS_H

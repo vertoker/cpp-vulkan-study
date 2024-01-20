@@ -27,5 +27,8 @@
 #include "4. Memory/Lesson20_MemoryBasics.h"
 #include "4. Memory/Lesson21_UniquePtr.h"
 #include "4. Memory/Lesson22_SharedPtr.h"
+#include "5. OOP/Lesson23_Classes.h"
+#include "5. OOP/Lesson24_Friends.h"
+#include "5. OOP/Lesson25_Statics.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H
