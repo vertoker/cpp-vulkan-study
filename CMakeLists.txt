@@ -42,4 +42,9 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/5. OOP/Lesson33_NestedClass.cpp"
         "src/5. OOP/Lesson33_NestedClass.h"
         "src/6. Exceptions/Lesson34_Basics.cpp"
-        "src/6. Exceptions/Lesson34_Basics.h")
+        "src/6. Exceptions/Lesson34_Basics.h"
+        "src/6. Exceptions/Lesson35_Destructor.cpp"
+        "src/6. Exceptions/Lesson35_Destructor.h"
+        "src/6. Exceptions/Lesson36_ExceptionTypes.cpp"
+        "src/6. Exceptions/Lesson36_ExceptionTypes.h"
+)

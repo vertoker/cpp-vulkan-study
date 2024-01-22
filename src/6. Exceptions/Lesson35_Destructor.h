@@ -1,0 +1,15 @@
+//
+// Created by vertog on 22.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON35_DESTRUCTOR_H
+#define STUDYCPPANDVULKANRENDERING_LESSON35_DESTRUCTOR_H
+
+
+class Lesson35_Destructor {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON35_DESTRUCTOR_H
