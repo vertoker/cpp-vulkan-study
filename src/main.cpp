@@ -1,7 +1,7 @@
 #include "Lessons.h"
 
 int main(int argc, char* argv[]) {
-    Lesson36_ExceptionTypes lesson;
+    Lesson38_Templates lesson;
     lesson.main();
     return 0;
 }

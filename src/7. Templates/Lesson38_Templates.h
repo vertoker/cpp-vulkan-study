@@ -1,0 +1,15 @@
+//
+// Created by vertog on 24.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON38_TEMPLATES_H
+#define STUDYCPPANDVULKANRENDERING_LESSON38_TEMPLATES_H
+
+
+class Lesson38_Templates {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON38_TEMPLATES_H
