@@ -43,5 +43,6 @@
 #include "6. Exceptions/Lesson36_ExceptionTypes.h"
 #include "6. Exceptions/Lesson37_ExceptionFromLib.h"
 #include "7. Templates/Lesson38_Templates.h"
+#include "7. Templates/Lesson39_ClassTemplates.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

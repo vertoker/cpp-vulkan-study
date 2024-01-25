@@ -7,7 +7,8 @@ file(GLOB_RECURSE HEADERS ${CMAKE_CURRENT_SOURCE_DIR}/src/*.h)
 file(GLOB_RECURSE SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
 
 # add executions
-add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES})
+add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
+        "src/7. Templates/Lesson40_TemplateSpecializations.h")
 
 # fix clion shitty file creator
 add_library(CLionLib ${HEADERS} ${SOURCES})
