@@ -44,5 +44,7 @@
 #include "6. Exceptions/Lesson37_ExceptionFromLib.h"
 #include "7. Templates/Lesson38_Templates.h"
 #include "7. Templates/Lesson39_ClassTemplates.h"
+#include "7. Templates/Lesson40_TemplateSpecializations.h"
+#include "7. Templates/Lesson41_TemplateInherit.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

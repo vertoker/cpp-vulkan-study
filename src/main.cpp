@@ -1,7 +1,7 @@
 #include "Lessons.h"
 
 int main(int argc, char* argv[]) {
-    Lesson39_ClassTemplates lesson;
+    Lesson41_TemplateInherit lesson;
     lesson.main();
     return 0;
 }
