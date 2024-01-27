@@ -50,5 +50,15 @@
 #include "8. Containers/Lesson43_Vectors.h"
 #include "8. Containers/Lesson44_Iterators.h"
 #include "8. Containers/Lesson45_List.h"
+#include "8. Containers/Lesson46_ForwardList.h"
+#include "8. Containers/Lesson47_Deque.h"
+#include "8. Containers/Lesson48_Stack.h"
+#include "8. Containers/Lesson49_Queue.h"
+#include "8. Containers/Lesson50_PriorityQueue.h"
+#include "8. Containers/Lesson51_Set.h"
+#include "8. Containers/Lesson52_Map.h"
+#include "8. Containers/Lesson53_UnorderedSet.h"
+#include "8. Containers/Lesson54_UnorderedMap.h"
+#include "8. Containers/Lesson55_Span.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

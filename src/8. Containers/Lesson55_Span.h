@@ -1,0 +1,15 @@
+//
+// Created by vertog on 28.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON55_SPAN_H
+#define STUDYCPPANDVULKANRENDERING_LESSON55_SPAN_H
+
+
+class Lesson55_Span {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON55_SPAN_H

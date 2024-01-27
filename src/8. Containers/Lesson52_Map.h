@@ -1,0 +1,15 @@
+//
+// Created by vertog on 27.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON52_MAP_H
+#define STUDYCPPANDVULKANRENDERING_LESSON52_MAP_H
+
+
+class Lesson52_Map {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON52_MAP_H

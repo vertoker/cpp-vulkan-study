@@ -1,0 +1,15 @@
+//
+// Created by vertog on 27.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON49_QUEUE_H
+#define STUDYCPPANDVULKANRENDERING_LESSON49_QUEUE_H
+
+
+class Lesson49_Queue {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON49_QUEUE_H

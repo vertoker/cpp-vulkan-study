@@ -1,7 +1,7 @@
 #include "Lessons.h"
 
 int main(int argc, char* argv[]) {
-    Lesson45_List lesson;
+    Lesson54_UnorderedMap lesson;
     lesson.main();
     return 0;
 }
