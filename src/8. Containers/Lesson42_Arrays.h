@@ -1,0 +1,15 @@
+//
+// Created by vertog on 27.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON42_ARRAYS_H
+#define STUDYCPPANDVULKANRENDERING_LESSON42_ARRAYS_H
+
+
+class Lesson42_Arrays {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON42_ARRAYS_H

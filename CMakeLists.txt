@@ -8,8 +8,15 @@ file(GLOB_RECURSE SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
 
 # add executions
 add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
-        "src/7. Templates/Lesson40_TemplateSpecializations.h"
-        "src/7. Templates/Lesson41_TemplateInherit.h")
+        "src/8. Containers/Lesson42_Arrays.cpp"
+        "src/8. Containers/Lesson42_Arrays.h"
+        "src/8. Containers/Lesson45_List.h")
 
 # fix clion shitty file creator
-add_library(CLionLib ${HEADERS} ${SOURCES})
+add_library(CLionLib ${HEADERS} ${SOURCES}
+        "src/8. Containers/Lesson44_Iterators.cpp"
+        "src/8. Containers/Lesson44_Iterators.h"
+        "src/8. Containers/Lesson45_List.cpp"
+        "src/8. Containers/Lesson45_List.h"
+        "src/8. Containers/Lesson46_ForwardList.cpp"
+        "src/8. Containers/Lesson46_ForwardList.h")

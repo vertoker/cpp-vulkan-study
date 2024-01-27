@@ -46,5 +46,9 @@
 #include "7. Templates/Lesson39_ClassTemplates.h"
 #include "7. Templates/Lesson40_TemplateSpecializations.h"
 #include "7. Templates/Lesson41_TemplateInherit.h"
+#include "8. Containers/Lesson42_Arrays.h"
+#include "8. Containers/Lesson43_Vectors.h"
+#include "8. Containers/Lesson44_Iterators.h"
+#include "8. Containers/Lesson45_List.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

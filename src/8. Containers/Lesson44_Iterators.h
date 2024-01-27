@@ -1,0 +1,15 @@
+//
+// Created by vertog on 27.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON44_ITERATORS_H
+#define STUDYCPPANDVULKANRENDERING_LESSON44_ITERATORS_H
+
+
+class Lesson44_Iterators {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON44_ITERATORS_H
