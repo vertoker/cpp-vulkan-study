@@ -60,5 +60,6 @@
 #include "8. Containers/Lesson53_UnorderedSet.h"
 #include "8. Containers/Lesson54_UnorderedMap.h"
 #include "8. Containers/Lesson55_Span.h"
+#include "9. Strings/Lesson56_String.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

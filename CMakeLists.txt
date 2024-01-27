@@ -10,7 +10,9 @@ file(GLOB_RECURSE SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
 add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/8. Containers/Lesson42_Arrays.cpp"
         "src/8. Containers/Lesson42_Arrays.h"
-        "src/8. Containers/Lesson45_List.h")
+        "src/8. Containers/Lesson45_List.h"
+        "src/9. Strings/Lesson56_String.cpp"
+        "src/9. Strings/Lesson56_String.h")
 
 # fix clion shitty file creator
 add_library(CLionLib ${HEADERS} ${SOURCES}
