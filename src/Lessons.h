@@ -61,5 +61,12 @@
 #include "8. Containers/Lesson54_UnorderedMap.h"
 #include "8. Containers/Lesson55_Span.h"
 #include "9. Strings/Lesson56_String.h"
+#include "9. Strings/Lesson57_Unicode.h"
+#include "9. Strings/Lesson58_Conversion.h"
+#include "9. Strings/Lesson59_Functions.h"
+#include "9. Strings/Lesson60_StringBuilder.h"
+#include "9. Strings/Lesson61_CharOperations.h"
+#include "9. Strings/Lesson62_StringView.h"
+//#include "10. Movement Semantics/Lesson60_StringBuilder.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

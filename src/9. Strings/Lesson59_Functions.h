@@ -1,0 +1,15 @@
+//
+// Created by vertog on 28.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON59_FUNCTIONS_H
+#define STUDYCPPANDVULKANRENDERING_LESSON59_FUNCTIONS_H
+
+
+class Lesson59_Functions {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON59_FUNCTIONS_H

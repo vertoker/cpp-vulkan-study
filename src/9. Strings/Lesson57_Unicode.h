@@ -1,0 +1,15 @@
+//
+// Created by vertog on 28.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON57_UNICODE_H
+#define STUDYCPPANDVULKANRENDERING_LESSON57_UNICODE_H
+
+
+class Lesson57_Unicode {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON57_UNICODE_H
