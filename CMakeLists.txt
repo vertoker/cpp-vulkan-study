@@ -13,7 +13,9 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/9. Strings/Lesson61_CharOperations.cpp"
         "src/9. Strings/Lesson61_CharOperations.h"
         "src/9. Strings/Lesson62_StringView.cpp"
-        "src/9. Strings/Lesson62_StringView.h")
+        "src/9. Strings/Lesson62_StringView.h"
+        "src/10. Movement Semantics/Lesson63_LRValue.cpp"
+        "src/10. Movement Semantics/Lesson63_LRValue.h")
 
 # fix clion shitty file creator
 # add_library(CLionLib ${HEADERS} ${SOURCES})

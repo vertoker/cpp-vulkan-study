@@ -13,10 +13,12 @@
 #include "1. Basics/Lesson6_Pointers.h"
 #include "1. Basics/Lessons7_Arrays.h"
 #include "1. Basics/Lessons8_Strings.h"
+
 #include "2. Pointers/Lesson9_PointersAdvanced.h"
 #include "2. Pointers/Lesson10_PointersOperations.h"
 #include "2. Pointers/Lesson11_PointersMath.h"
 #include "2. Pointers/Lesson12_PointersArrays.h"
+
 #include "3. Functions/Lesson13_FunctionsBasics.h"
 #include "3. Functions/Lesson14_FunctionsParameters.h"
 #include "3. Functions/Lesson15_FunctionsReturn.h"
@@ -24,9 +26,11 @@
 #include "3. Functions/Lesson17_FunctionsOverload.h"
 #include "3. Functions/Lesson18_FunctionsRecursion.h"
 #include "3. Functions/Lesson19_FunctionsPointers.h"
+
 #include "4. Memory/Lesson20_MemoryBasics.h"
 #include "4. Memory/Lesson21_UniquePtr.h"
 #include "4. Memory/Lesson22_SharedPtr.h"
+
 #include "5. OOP/Lesson23_Classes.h"
 #include "5. OOP/Lesson24_Friends.h"
 #include "5. OOP/Lesson25_Statics.h"
@@ -38,14 +42,17 @@
 #include "5. OOP/Lesson31_Explicit.h"
 #include "5. OOP/Lesson32_Namespaces.h"
 #include "5. OOP/Lesson33_NestedClass.h"
+
 #include "6. Exceptions/Lesson34_Basics.h"
 #include "6. Exceptions/Lesson35_Destructor.h"
 #include "6. Exceptions/Lesson36_ExceptionTypes.h"
 #include "6. Exceptions/Lesson37_ExceptionFromLib.h"
+
 #include "7. Templates/Lesson38_Templates.h"
 #include "7. Templates/Lesson39_ClassTemplates.h"
 #include "7. Templates/Lesson40_TemplateSpecializations.h"
 #include "7. Templates/Lesson41_TemplateInherit.h"
+
 #include "8. Containers/Lesson42_Arrays.h"
 #include "8. Containers/Lesson43_Vectors.h"
 #include "8. Containers/Lesson44_Iterators.h"
@@ -60,6 +67,7 @@
 #include "8. Containers/Lesson53_UnorderedSet.h"
 #include "8. Containers/Lesson54_UnorderedMap.h"
 #include "8. Containers/Lesson55_Span.h"
+
 #include "9. Strings/Lesson56_String.h"
 #include "9. Strings/Lesson57_Unicode.h"
 #include "9. Strings/Lesson58_Conversion.h"
@@ -67,6 +75,7 @@
 #include "9. Strings/Lesson60_StringBuilder.h"
 #include "9. Strings/Lesson61_CharOperations.h"
 #include "9. Strings/Lesson62_StringView.h"
-//#include "10. Movement Semantics/Lesson60_StringBuilder.h"
+
+#include "10. Movement Semantics/Lesson63_LRValue.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

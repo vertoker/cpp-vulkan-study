@@ -1,0 +1,15 @@
+//
+// Created by vertog on 28.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON63_LRVALUE_H
+#define STUDYCPPANDVULKANRENDERING_LESSON63_LRVALUE_H
+
+
+class Lesson63_LRValue {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON63_LRVALUE_H
