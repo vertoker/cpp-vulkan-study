@@ -77,5 +77,6 @@
 #include "9. Strings/Lesson62_StringView.h"
 
 #include "10. Movement Semantics/Lesson63_LRValue.h"
+#include "10. Movement Semantics/Lesson64_MoveConstructor.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

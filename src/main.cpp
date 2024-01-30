@@ -1,7 +1,7 @@
 #include "Lessons.h"
 
 int main(int argc, char* argv[]) {
-    Lesson60_StringBuilder lesson;
+    Lesson64_MoveConstructor lesson;
     lesson.main();
     return 0;
 }

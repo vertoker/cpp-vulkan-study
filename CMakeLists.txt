@@ -15,7 +15,11 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/9. Strings/Lesson62_StringView.cpp"
         "src/9. Strings/Lesson62_StringView.h"
         "src/10. Movement Semantics/Lesson63_LRValue.cpp"
-        "src/10. Movement Semantics/Lesson63_LRValue.h")
+        "src/10. Movement Semantics/Lesson63_LRValue.h"
+        "src/10. Movement Semantics/Lesson64_MoveConstructor.cpp"
+        "src/10. Movement Semantics/Lesson64_MoveConstructor.h"
+        "src/10. Movement Semantics/Lesson65_MoveOperatorEquals.cpp"
+        "src/10. Movement Semantics/Lesson65_MoveOperatorEquals.h")
 
 # fix clion shitty file creator
 # add_library(CLionLib ${HEADERS} ${SOURCES})
