@@ -44,4 +44,14 @@ void Lesson9_PointersAdvanced::main() {
     int const*pa2 = &a;
     // Data - immutable
     // Pointer - immutable
+
+    // How correctly place * in a pointer
+    int* ptr1 = nullptr;
+    int *ptr2 = nullptr;
+    // in both solutions, it's a pointer, but if I try to declare like that
+    int* ptr3, ptr4;
+    // ptr4 will be just an int
+    int *ptr5, *ptr6;
+    // n that case both of the variables will be pointers
+    // than use "int *ptr" instead of "int* ptr"
 }

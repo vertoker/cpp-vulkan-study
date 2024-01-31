@@ -80,4 +80,7 @@
 #include "10. Movement Semantics/Lesson64_MoveConstructor.h"
 #include "10. Movement Semantics/Lesson65_MoveOperatorEquals.h"
 
+#include "11. Functions/Lesson66_Functions.h"
+#include "11. Functions/Lesson67_Lambda.h"
+
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

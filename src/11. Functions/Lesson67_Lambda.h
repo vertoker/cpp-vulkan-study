@@ -1,0 +1,15 @@
+//
+// Created by vertog on 31.01.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON67_LAMBDA_H
+#define STUDYCPPANDVULKANRENDERING_LESSON67_LAMBDA_H
+
+
+class Lesson67_Lambda {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON67_LAMBDA_H
