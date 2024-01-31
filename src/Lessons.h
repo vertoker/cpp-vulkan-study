@@ -78,5 +78,6 @@
 
 #include "10. Movement Semantics/Lesson63_LRValue.h"
 #include "10. Movement Semantics/Lesson64_MoveConstructor.h"
+#include "10. Movement Semantics/Lesson65_MoveOperatorEquals.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H
