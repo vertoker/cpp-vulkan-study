@@ -1,7 +1,7 @@
 #include "Lessons.h"
 
 int main(int argc, char* argv[]) {
-    Lesson67_Lambda lesson;
+    Lesson68_Algorithms lesson;
     lesson.main();
     return 0;
 }

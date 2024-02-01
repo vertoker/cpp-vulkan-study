@@ -1,0 +1,15 @@
+//
+// Created by vertog on 01.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON68_ALGORITHMS_H
+#define STUDYCPPANDVULKANRENDERING_LESSON68_ALGORITHMS_H
+
+
+class Lesson68_Algorithms {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON68_ALGORITHMS_H

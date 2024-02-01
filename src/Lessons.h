@@ -83,4 +83,6 @@
 #include "11. Functions/Lesson66_Functions.h"
 #include "11. Functions/Lesson67_Lambda.h"
 
+#include "12. Algorithms/Lesson68_Algorithms.h"
+
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H
