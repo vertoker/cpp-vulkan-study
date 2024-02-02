@@ -1,0 +1,15 @@
+//
+// Created by vertog on 02.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON69_STREAMS_H
+#define STUDYCPPANDVULKANRENDERING_LESSON69_STREAMS_H
+
+
+class Lesson69_Streams {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON69_STREAMS_H

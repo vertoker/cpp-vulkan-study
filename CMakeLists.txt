@@ -13,7 +13,9 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/11. Functions/Lesson67_Lambda.cpp"
         "src/11. Functions/Lesson67_Lambda.h"
         "src/12. Algorithms/Lesson68_Algorithms.cpp"
-        "src/12. Algorithms/Lesson68_Algorithms.h")
+        "src/12. Algorithms/Lesson68_Algorithms.h"
+        "src/13. Streams/Lesson69_Streams.cpp"
+        "src/13. Streams/Lesson69_Streams.h")
 
 # fix clion shitty file creator
 # add_library(CLionLib ${HEADERS} ${SOURCES})

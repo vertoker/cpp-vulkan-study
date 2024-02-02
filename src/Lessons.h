@@ -85,4 +85,6 @@
 
 #include "12. Algorithms/Lesson68_Algorithms.h"
 
+#include "13. Streams/Lesson69_Streams.h"
+
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H
