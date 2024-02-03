@@ -1,0 +1,15 @@
+//
+// Created by vertog on 03.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON71_MATH_H
+#define STUDYCPPANDVULKANRENDERING_LESSON71_MATH_H
+
+
+class Lesson71_Math {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON71_MATH_H

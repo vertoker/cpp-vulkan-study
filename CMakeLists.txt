@@ -15,7 +15,21 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/12. Algorithms/Lesson68_Algorithms.cpp"
         "src/12. Algorithms/Lesson68_Algorithms.h"
         "src/13. Streams/Lesson69_Streams.cpp"
-        "src/13. Streams/Lesson69_Streams.h")
+        "src/13. Streams/Lesson69_Streams.h"
+        "src/13. Streams/Lesson70_FileStreams.cpp"
+        "src/13. Streams/Lesson70_FileStreams.h"
+        "src/14. std/Lesson71_Math.cpp"
+        "src/14. std/Lesson71_Math.h"
+        "src/14. std/Lesson72_StringFormat.cpp"
+        "src/14. std/Lesson72_StringFormat.h"
+        "src/14. std/Lesson73_OptionalNullable.cpp"
+        "src/14. std/Lesson73_OptionalNullable.h"
+        "src/15. Idiomas/Lesson74_RAII.cpp"
+        "src/15. Idiomas/Lesson74_RAII.h"
+        "src/15. Idiomas/Lesson75_CopySwap.cpp"
+        "src/15. Idiomas/Lesson75_CopySwap.h"
+        "src/15. Idiomas/Lesson76_MoveSwap.cpp"
+        "src/15. Idiomas/Lesson76_MoveSwap.h")
 
 # fix clion shitty file creator
 # add_library(CLionLib ${HEADERS} ${SOURCES})

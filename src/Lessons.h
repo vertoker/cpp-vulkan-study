@@ -86,5 +86,14 @@
 #include "12. Algorithms/Lesson68_Algorithms.h"
 
 #include "13. Streams/Lesson69_Streams.h"
+#include "13. Streams/Lesson70_FileStreams.h"
+
+#include "14. std/Lesson71_Math.h"
+#include "14. std/Lesson72_StringFormat.h"
+#include "14. std/Lesson73_OptionalNullable.h"
+
+#include "15. Idiomas/Lesson74_RAII.h"
+#include "15. Idiomas/Lesson75_CopySwap.h"
+#include "15. Idiomas/Lesson76_MoveSwap.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

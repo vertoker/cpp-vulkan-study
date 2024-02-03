@@ -1,0 +1,15 @@
+//
+// Created by vertog on 03.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON75_COPYSWAP_H
+#define STUDYCPPANDVULKANRENDERING_LESSON75_COPYSWAP_H
+
+
+class Lesson75_CopySwap {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON75_COPYSWAP_H

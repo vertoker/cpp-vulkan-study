@@ -1,0 +1,15 @@
+//
+// Created by vertog on 03.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_LESSON74_RAII_H
+#define STUDYCPPANDVULKANRENDERING_LESSON74_RAII_H
+
+
+class Lesson74_RAII {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_LESSON74_RAII_H
