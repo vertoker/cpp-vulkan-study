@@ -137,4 +137,11 @@ void Lesson43_Vectors::main() {
     std::cout << v1v2 << std::endl;
     std::cout << v1v3 << std::endl;
     std::cout << v2v3 << std::endl;
+
+    // you can reserve capacity for new elements
+    std::vector<int> v31;
+    // allocate array with 1000 elements, but an array will have size = 0
+    v31.reserve(1000);
+    // and if you add an element, it's just writing it in ends of a size array and add 1 to size
+    v31.emplace_back(1);
 }
