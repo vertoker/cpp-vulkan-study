@@ -97,5 +97,6 @@
 #include "15. Idiomas/Lesson76_MoveSwap.h"
 
 #include "LeetCode/Solution.h"
+#include "LeetCode/Solution2.h"
 
 #endif //STUDYCPPANDVULKANRENDERING_LESSONS_H

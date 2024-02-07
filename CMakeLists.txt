@@ -31,7 +31,9 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         "src/15. Idiomas/Lesson76_MoveSwap.cpp"
         "src/15. Idiomas/Lesson76_MoveSwap.h"
         src/LeetCode/Solution.cpp
-        src/LeetCode/Solution.h)
+        src/LeetCode/Solution.h
+        src/LeetCode/Solution2.cpp
+        src/LeetCode/Solution2.h)
 
 # fix clion shitty file creator
 # add_library(CLionLib ${HEADERS} ${SOURCES})
