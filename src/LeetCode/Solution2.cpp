@@ -2,6 +2,7 @@
 // Created by vertog on 07.02.2024.
 //
 
+#include <sstream>
 #include "Solution2.h"
 #include "string"
 #include "iostream"
