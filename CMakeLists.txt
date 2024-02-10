@@ -33,7 +33,11 @@ add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES}
         src/LeetCode/Solution.cpp
         src/LeetCode/Solution.h
         src/LeetCode/Solution2.cpp
-        src/LeetCode/Solution2.h)
+        src/LeetCode/Solution2.h
+        src/Threads/ThreadBasics.cpp
+        src/Threads/ThreadBasics.h
+        src/Threads/ThreadsComparison.cpp
+        src/Threads/ThreadsComparison.h)
 
 # fix clion shitty file creator
 # add_library(CLionLib ${HEADERS} ${SOURCES})

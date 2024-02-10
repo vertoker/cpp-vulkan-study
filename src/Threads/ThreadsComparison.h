@@ -1,0 +1,15 @@
+//
+// Created by vertog on 10.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_THREADSCOMPARISON_H
+#define STUDYCPPANDVULKANRENDERING_THREADSCOMPARISON_H
+
+
+class ThreadsComparison {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_THREADSCOMPARISON_H

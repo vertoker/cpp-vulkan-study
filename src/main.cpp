@@ -1,7 +1,7 @@
 #include "Lessons.h"
 
 int main(int argc, char* argv[]) {
-    SolutionDebugger2 lesson;
+    ThreadBasics lesson;
     lesson.main();
     return 0;
 }

@@ -1,0 +1,15 @@
+//
+// Created by vertog on 10.02.2024.
+//
+
+#ifndef STUDYCPPANDVULKANRENDERING_THREADBASICS_H
+#define STUDYCPPANDVULKANRENDERING_THREADBASICS_H
+
+
+class ThreadBasics {
+public:
+    void main();
+};
+
+
+#endif //STUDYCPPANDVULKANRENDERING_THREADBASICS_H
