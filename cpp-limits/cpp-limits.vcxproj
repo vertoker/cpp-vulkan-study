@@ -139,11 +139,15 @@
   <ItemGroup>
     <ClInclude Include="src\EndBrace.h" />
     <ClInclude Include="src\Log.h" />
+    <ClInclude Include="src\main.h" />
+    <ClInclude Include="src\Sleep.h" />
     <ClInclude Include="src\StartBrace.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Log.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Sleep.cpp" />
+    <ClCompile Include="src\Timer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

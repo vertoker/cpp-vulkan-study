@@ -11,6 +11,16 @@ void Log(const char* message)
 	std::cout << message << std::endl;
 #include "EndBrace.h"
 
+void Log(int& message) {
+	std::cout << message << std::endl;
+}
+void Log(float& message) {
+	std::cout << message << std::endl;
+}
+void Log(double& message) {
+	std::cout << message << std::endl;
+}
+
 void Nameof() {
 	Log(nameof(Log));
 }

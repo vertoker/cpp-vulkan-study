@@ -1,11 +1,28 @@
 #include "Log.h"
+#include "main.h"
+#include "Timer.cpp"
+#include "Sleep.h"
+
 #include <GLFW/glfw3.h>
+#include <string>
 
 int main() {
 	Log("HI");
 	Nameof();
 
-	// GLFW
+    Timer timer;
+
+    timer.Start();
+    Sleep(1000);
+    timer.Stop();
+
+    return 0;
+    //return MainWindow();
+}
+
+int MainWindow()
+{
+    // GLFW
     GLFWwindow* window;
 
     /* Initialize the library */
@@ -19,7 +36,7 @@ int main() {
         glfwTerminate();
         return -1;
     }
-    
+
     /* Make the window's context current */
     glfwMakeContextCurrent(window);
 
