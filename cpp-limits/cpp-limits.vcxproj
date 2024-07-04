@@ -131,13 +131,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="EndBrace.h" />
-    <ClInclude Include="Log.h" />
-    <ClInclude Include="StartBrace.h" />
+    <ClInclude Include="src\EndBrace.h" />
+    <ClInclude Include="src\Log.h" />
+    <ClInclude Include="src\StartBrace.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Log.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\Log.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
