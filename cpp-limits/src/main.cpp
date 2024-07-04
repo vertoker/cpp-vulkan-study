@@ -2,6 +2,7 @@
 #include "main.h"
 #include "Timer.cpp"
 #include "Sleep.h"
+#include "FileManager.h"
 
 #include <GLFW/glfw3.h>
 #include <string>
@@ -15,6 +16,12 @@ int main() {
     timer.Start();
     Sleep(1000);
     timer.Stop();
+
+    auto data = ReadFileAsString("data.txt");
+
+    if (data.has_value())
+        Log(data.value().c_str());
+    else Log("No");
 
     return 0;
     //return MainWindow();

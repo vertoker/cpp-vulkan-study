@@ -109,6 +109,7 @@
       <Optimization>MaxSpeed</Optimization>
       <BasicRuntimeChecks>Default</BasicRuntimeChecks>
       <AdditionalIncludeDirectories>$(SolutionDir)dependencies\GLFW\include</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -138,12 +139,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="src\EndBrace.h" />
+    <ClInclude Include="src\FileManager.h" />
     <ClInclude Include="src\Log.h" />
     <ClInclude Include="src\main.h" />
     <ClInclude Include="src\Sleep.h" />
     <ClInclude Include="src\StartBrace.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\FileManager.cpp" />
     <ClCompile Include="src\Log.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Sleep.cpp" />
