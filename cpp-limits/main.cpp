@@ -2,6 +2,11 @@
 #include "Log.h"
 
 int main() {
-	Log("ok");
+	int a = 123;
+	a++;
+
+	const char* str = "Hello";
+
+	Log(str);
 	Nameof();
 }
