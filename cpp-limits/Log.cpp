@@ -1,5 +1,9 @@
 #include <iostream>
 
+// <> - include directories
+// "" - link
+// <> for std, "" for other
+
 #define nameof(v) #v
 
 void Log(const char* message)
