@@ -3,19 +3,12 @@ project(cmake-tutorial)
 
 set(CMAKE_CXX_STANDARD 11)
 
-# v.1 
-# https://stackoverflow.com/questions/3201154/automatically-add-all-files-in-a-folder-to-a-target-using-cmake
+# v.1
 
-#file(GLOB cmake-tutorial CONFIGURE_DEPENDS "*.h" "*.cpp")
+#file(GLOB SOURCES "src/*.h" "src/*.cpp" "src/test/*.h" "src/test/*.cpp")
+#add_executable(cmake-tutorial ${SOURCES})
 
 # v.2
 
-#file(GLOB_RECURSE HEADERS ${CMAKE_CURRENT_SOURCE_DIR}/src/*.h)
-#file(GLOB_RECURSE SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
-
-#add_executable(cmake-tutorial ${HEADERS} ${SOURCES})
-
-# v.3
-
-file(GLOB SOURCES "*.h" "*.cpp")
+file(GLOB_RECURSE SOURCES "src/*.h" "src/*.cpp")
 add_executable(cmake-tutorial ${SOURCES})

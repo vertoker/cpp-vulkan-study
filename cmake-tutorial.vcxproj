@@ -320,7 +320,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Projects\CPP\cmake-tutorial\main.cpp" />
+    <ClCompile Include="E:\Projects\CPP\cmake-tutorial\src\main.cpp" />
+    <ClCompile Include="E:\Projects\CPP\cmake-tutorial\src\test\log.cpp" />
+    <ClInclude Include="E:\Projects\CPP\cmake-tutorial\src\test\log.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="E:\Projects\CPP\cmake-tutorial\ZERO_CHECK.vcxproj">
