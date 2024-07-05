@@ -1,0 +1,3 @@
+cmake .
+cmake --build .
+set /p DUMMY=Hit ENTER to continue...
