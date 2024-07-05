@@ -23,8 +23,7 @@ int main() {
         Log(data.value().c_str());
     else Log("No");
 
-    return 0;
-    //return MainWindow();
+    return MainWindow();
 }
 
 int MainWindow()
